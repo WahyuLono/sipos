@@ -84,7 +84,7 @@
 
             <p class="text-center mt-5 lead">
                 Developed By
-                <a href="https://www.linkedin.com/in/wahyu-yuwono/" class="font-weight-bold text-primary">Wahyu Yuwono</a>
+                <a href="https://github.com/WahyuLono/sipos" class="font-weight-bold text-primary">Wahyu Yuwono</a>
             </p>
         </div>
     </div>
