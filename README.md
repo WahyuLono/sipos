@@ -17,8 +17,8 @@
 > **Important Note:** "Triangle POS" uses Laravel Snappy Package for PDFs. If you are using Linux then no configuration is needed. But in other Operating Systems please refer to [Laravel Snappy Documentation](https://github.com/barryvdh/laravel-snappy).
 
 # Admin Credentials
-> Super Admin || Email: super.admin@test.com || Password: 12345678
-> Admin || Email: super.admin@test.com || Password: 12345678
+> **Super Admin || Email: super.admin@test.com || Password: 12345678
+> **Admin || Email: wahyu@spj.sch.id || Password: 12345678
 
 ## Triangle POS Features
 
